@@ -1,4 +1,4 @@
-var currentNumberWrapper = document.getElementById("currentNumber");
+var currentNumberWrapper = document.getElementById("currentNumber"); //modifica apenas o elemento span 0 do html, pq o currentNumber sem o wrapper seria o elemento todo//
 var currentNumber = 0;
 
 function increment(){
